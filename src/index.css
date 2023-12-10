@@ -10,11 +10,43 @@ h1 {
   font-family: "Noto Sans Kawi", sans-serif;
   font-family: "Nova Square", sans-serif;
   text-align: center;
-  padding: 1rem;
-  font-size: 3rem;
+  padding: 0.5rem;
+  font-size: 2.5rem;
 }
 
 body {
   background-color: #00dbde;
   background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);
+}
+
+.card {
+  border-radius: 15px;
+  background-color: #21d4fd;
+  background-image: linear-gradient(270deg, #21d4fd 0%, #b721ff 100%);
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.today {
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+}
+
+.button {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+button {
+  background-color: #5e5df0;
+  padding: 0.5rem;
+  color: white;
+  width: 150px;
+  border-radius: 1rem;
+  font-family: "Noto Sans Kawi", sans-serif;
+  font-family: "Nova Square", sans-serif;
+  font-weight: lighter;
+  font-size: 1rem;
+  border: none;
 }
