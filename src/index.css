@@ -49,4 +49,5 @@ button {
   font-weight: lighter;
   font-size: 1rem;
   border: none;
+  cursor:pointer;
 }
