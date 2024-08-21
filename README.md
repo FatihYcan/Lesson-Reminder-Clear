@@ -1,10 +1,6 @@
 # Lesson Reminder Clear
 
-It is a simple web application that helps you keep track of your lessons. It is developed using React and allows users to view their courses and clear the list.
-
-## Project Summary
-
-This project provides an application where users can view their daily lessons and clear the list. The application is built with React.js and a modern design has been implemented for the user interface.
+It offers an app where users can view their daily lessons and clear the list. The application is built with React.js and a modern design has been implemented for the user interface.
 
 ## Features
 
@@ -21,11 +17,7 @@ This project provides an application where users can view their daily lessons an
 
 # Lesson Reminder Clear
 
-Derslerinizi takip etmenize yardımcı olan basit bir web uygulamasıdır. React kullanılarak geliştirilmiştir ve kullanıcıların derslerini görüntülemesine ve listeyi temizlemesine olanak tanır.
-
-## Proje Özeti
-
-Bu proje, kullanıcıların günlük derslerini görüntüleyebileceği ve listeyi temizleyebileceği bir uygulama sunar. Uygulama React.js ile oluşturulmuştur ve kullanıcı arayüzü için modern bir tasarım uygulanmıştır.
+Kullanıcıların günlük derslerini görüntüleyebileceği ve listeyi temizleyebileceği bir uygulama sunar. Uygulama React.js ile oluşturulmuştur ve kullanıcı arayüzü için modern bir tasarım uygulanmıştır.
 
 ## Özellikler
 
