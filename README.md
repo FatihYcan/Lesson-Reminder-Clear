@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Lesson Reminder Clear
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a simple web application that helps you keep track of your lessons. It is developed using React and allows users to view their courses and clear the list.
 
-## Available Scripts
+## Project Summary
 
-In the project directory, you can run:
+This project provides an application where users can view their daily lessons and clear the list. The application is built with React.js and a modern design has been implemented for the user interface.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Course Listing:** You can view the name, time and image of your daily lessons.
+- **List Clearing:** You can list all your courses and clear the list by pressing the 'Clear List' button.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies
 
-### `npm test`
+- HTML5
+- CSS3
+- Javascript
+- React
+- Google Fonts
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Lesson Reminder Clear
 
-### `npm run build`
+Derslerinizi takip etmenize yardımcı olan basit bir web uygulamasıdır. React kullanılarak geliştirilmiştir ve kullanıcıların derslerini görüntülemesine ve listeyi temizlemesine olanak tanır.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Proje Özeti
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Bu proje, kullanıcıların günlük derslerini görüntüleyebileceği ve listeyi temizleyebileceği bir uygulama sunar. Uygulama React.js ile oluşturulmuştur ve kullanıcı arayüzü için modern bir tasarım uygulanmıştır.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Özellikler
 
-### `npm run eject`
+- **Ders Listeleme:** Günlük derslerinizin adını, saatini ve görselini görüntüleyebilirsiniz.
+- **Liste Temizleme:** Tüm derslerinizi listeleyebilir ve "Clear List" butonuna basarak listeyi temizleyebilirsiniz.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Teknolojiler
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- HTML5
+- CSS3
+- Javascript
+- React
+- Google Fonts
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Live](https://fy-lesson-reminder-clear.netlify.app/)
