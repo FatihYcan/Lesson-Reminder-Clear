@@ -40,4 +40,6 @@ Bu proje, kullanıcıların günlük derslerini görüntüleyebileceği ve liste
 - React
 - Google Fonts
 
+https://github.com/user-attachments/assets/65eddfbb-65ac-43ad-826c-690f78de54bc
+
 [Live](https://fy-lesson-reminder-clear.netlify.app/)
